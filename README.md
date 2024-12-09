@@ -53,15 +53,19 @@ Step 6: Testing and Debugging
 
 Test the Application: Run your application and test all the functionalities. Make sure the camera feed is displayed correctly, the home button works, and the warning messages and distance are shown as expected.
 
+
+
+Debugging: If you encounter any issues, use debugging tools and print statements to identify and fix the problems.
+
+Step 7: Finalizing and Deployment
+-
+
+Final Touches: Add any final touches to your application, such as icons, splash screens, and additional features.
+
+Deployment: Package your application for distribution. You can use tools like PyInstaller to create executable files for different operating systems.
+
 Licence(MIT)
 -
 
 Cotact : dagmazen@gmail.com
 -
-
-Debugging: If you encounter any issues, use debugging tools and print statements to identify and fix the problems.
-
-Step 7: Finalizing and Deployment
-Final Touches: Add any final touches to your application, such as icons, splash screens, and additional features.
-
-Deployment: Package your application for distribution. You can use tools like PyInstaller to create executable files for different operating systems.
